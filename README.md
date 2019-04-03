@@ -1,5 +1,6 @@
 # app-Calculator
 
 
-![Image alt](https://github.com/vkozhemi/app-Calculator/raw/master/img/calc.gif | width=10)
+
+<img src="https://github.com/vkozhemi/app-Calculator/raw/master/img/calc.gif" width="400" height="790">
 
