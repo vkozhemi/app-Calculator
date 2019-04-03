@@ -2,5 +2,5 @@
 
 
 
-<img src="https://github.com/vkozhemi/app-Calculator/raw/master/img/calc.gif" width="400" height="790">
+<img src="https://github.com/vkozhemi/app-Calculator/raw/master/img/calc.gif" width="300">
 
