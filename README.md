@@ -1,5 +1,5 @@
 # app-Calculator
 
 
-![Image alt](https://github.com/vkozhemi/app-Calculator/raw/master/img/calc.gif =100)
+![Image alt](https://github.com/vkozhemi/app-Calculator/raw/master/img/calc.gif =250x)
 
